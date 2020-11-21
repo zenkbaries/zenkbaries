@@ -25,6 +25,8 @@
 
 [<img alt="Link to my Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img alt="Link to my LinkedIn" width="30px" src="./img/linkedin.svg" />][linkedin]
+[<img alt="email" width="30px" src="./img/email.svg" />][email]
+
 
 
 <!-- Icons -->
@@ -65,3 +67,4 @@ Here are some ideas to get you started:
 [rails]: https://www.ruby-lang.org/en/
 [twitter]: https://twitter.com/kbaries
 [linkedin]: https://www.linkedin.com/in/jtowery/
+[email]: mailto:kbaries@gmail.com
