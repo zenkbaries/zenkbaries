@@ -12,12 +12,30 @@
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][ruby]
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][rails]
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] -->
 <br />
 <br />
 <br />
 
+<!-- Actual text -->
+
+### Connect with me:
+
+[<img alt="Link to my Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img alt="Link to my LinkedIn" width="30px" src="./img/linkedin.svg" />][linkedin]
+
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 <!--
 **zenkbaries/zenkbaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,3 +63,5 @@ Here are some ideas to get you started:
 [markdown]: https://www.markdownguide.org
 [ruby]: https://www.ruby-lang.org/en/
 [rails]: https://www.ruby-lang.org/en/
+[twitter]: https://twitter.com/kbaries
+[linkedin]: https://www.linkedin.com/in/jtowery/
